@@ -1,0 +1,23 @@
+{
+  "name": "fcapi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/forwardcollege/fcapi.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/forwardcollege/fcapi/issues"
+  },
+  "homepage": "https://github.com/forwardcollege/fcapi#readme",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
