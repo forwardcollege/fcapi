@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>API Documentation</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+            padding: 20px;
+        }
+        h1 {
+            color: #333;
+        }
+        p {
+            margin-bottom: 10px;
+        }
+        code {
+            background-color: #f4f4f4;
+            padding: 5px 10px;
+            border-radius: 5px;
+        }
+    </style>
+</head>
+<body>
+    <h1>API Documentation</h1>
+    
+    <h2>Endpoints</h2>
+    <h2><b>Base URL: </b>https://fcapi-1y70.onrender.com</h2>
+    <h3>Get All Quotes</h3>
+    <p>Get all quotes available.</p>
+    <code>GET /quotes</code>
+    <p><strong>Response:</strong></p>
+    <pre>[
+    {
+        "id": 1,
+        "quote": "What you do today can improve all your tomorrows.",
+        "author": "Ralph Marston"
+    },
+    {
+        "id": 2,
+        "quote": "What you get by achieving your goals is not as important as what you become by achieving your goals.",
+        "author": "Zig Ziglar"
+    },
+    ...
+]</pre>
+
+    <h3>Get Random Quote</h3>
+    <p>Get a random quote.</p>
+    <code>GET /quotes/random</code>
+    <p><strong>Response:</strong></p>
+    <pre>{
+    "id": 2,
+    "quote": "What you get by achieving your goals is not as important as what you become by achieving your goals.",
+    "author": "Zig Ziglar"
+}</pre>
+
+    <h3>Get Quote by ID</h3>
+    <p>Get a quote by its ID.</p>
+    <code>GET /quotes/{id}</code>
+    <p><strong>Response:</strong></p>
+    <pre>{
+    "id": 2,
+    "quote": "What you get by achieving your goals is not as important as what you become by achieving your goals.",
+    "author": "Zig Ziglar"
+}</pre>
+</body>
+</html>
