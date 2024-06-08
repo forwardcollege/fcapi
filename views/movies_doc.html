@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>API Documentation</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+            padding: 20px;
+        }
+        h1 {
+            color: #333;
+        }
+        code {
+            background-color: #f4f4f4;
+            padding: 5px 10px;
+            border-radius: 5px;
+        }
+    </style>
+</head>
+<body>
+    <h1>Movies API Documentation</h1>
+    
+    <h2>Endpoints</h2>
+    <h2><b>Base URL: </b>https://fcapi-1y70.onrender.com</h2>
+    <h3>Get All movies</h3>
+    <p>Get all movies available.</p>
+    <code>GET /movies</code>
+    <p><strong>Response:</strong></p>
+    <pre>[
+    {
+        "id": 1,
+        "title": "Inception",
+        "director": "Christopher Nolan",
+        "overview": "Inception is a mind-bending science fiction …",
+        "length": 148,
+        "rating": 8.8,
+        "release_date": "2010-07-16"
+    },
+    {
+        "id": 2,
+        "title": "The Dark Knight",
+        "director": "Christopher Nolan",
+        "overview": "Directed by Christopher Nolan, The Dark Knight …",
+        "length": 152,
+        "rating": 9,
+        "release_date": "2008-07-18"
+    }
+    // Additional movies...
+]</pre>
+    <h3>Get movie by ID</h3>
+    <p>Get a movie by its ID.</p>
+    <code>GET /movies/{id}</code>
+    <p><strong>Response:</strong></p>
+    <pre>{
+    "id": 2,
+    "title": "The Dark Knight",
+    "director": "Christopher Nolan",
+    "overview": "Directed by Christopher Nolan, The Dark Knight …",
+    "length": 152,
+    "rating": 9,
+    "release_date": "2008-07-18"
+}</pre>
+</body>
+</html>

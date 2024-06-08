@@ -21,4 +21,8 @@ router.get("/:id", (req, res) => {
     }
 })
 
+router.get("/doc/view", (req, res) => {
+    res.sendFile(__dirname + "/views/quotes_doc.html")
+});
+
 module.exports = router;
