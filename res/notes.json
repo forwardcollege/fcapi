@@ -1,0 +1,144 @@
+{
+  "notes": [
+    {
+      "id": 1,
+      "title": "Grocery List",
+      "content": "Milk, Bread, Eggs, Butter",
+      "category": "Shopping",
+      "backgroundColor": "#FFEBEE"
+    },
+    {
+      "id": 2,
+      "title": "Meeting Notes",
+      "content": "Discuss project milestones, review budget, assign tasks",
+      "category": "Work",
+      "backgroundColor": "#E3F2FD"
+    },
+    {
+      "id": 3,
+      "title": "Birthday Ideas",
+      "content": "Gift ideas: Books, Gadgets, Chocolates",
+      "category": "Personal",
+      "backgroundColor": "#FFF9C4"
+    },
+    {
+      "id": 4,
+      "title": "Workout Plan",
+      "content": "Monday: Cardio, Tuesday: Strength Training, Wednesday: Yoga",
+      "category": "Fitness",
+      "backgroundColor": "#E8F5E9"
+    },
+    {
+      "id": 5,
+      "title": "Recipe - Pancakes",
+      "content": "Ingredients: Flour, Eggs, Milk, Baking Powder, Sugar, Salt. Instructions: Mix all ingredients, cook on a hot griddle.",
+      "category": "Cooking",
+      "backgroundColor": "#FFF3E0"
+    },
+    {
+      "id": 6,
+      "title": "Vacation Plans",
+      "content": "Book flights, reserve hotel, plan itinerary",
+      "category": "Travel",
+      "backgroundColor": "#E1F5FE"
+    },
+    {
+      "id": 7,
+      "title": "Book List",
+      "content": "Read: '1984', 'To Kill a Mockingbird', 'The Great Gatsby'",
+      "category": "Reading",
+      "backgroundColor": "#F3E5F5"
+    },
+    {
+      "id": 8,
+      "title": "To-Do List",
+      "content": "Clean the house, finish the report, call the electrician",
+      "category": "General",
+      "backgroundColor": "#FFCDD2"
+    },
+    {
+      "id": 9,
+      "title": "Project Ideas",
+      "content": "Develop a note-taking app, create a personal website, build a chatbot",
+      "category": "Work",
+      "backgroundColor": "#C8E6C9"
+    },
+    {
+      "id": 10,
+      "title": "Shopping List",
+      "content": "Laptop, Headphones, USB Drive",
+      "category": "Shopping",
+      "backgroundColor": "#D1C4E9"
+    },
+    {
+      "id": 11,
+      "title": "Budget Plan",
+      "content": "Monthly income, expenses, savings goals",
+      "category": "Finance",
+      "backgroundColor": "#FFF176"
+    },
+    {
+      "id": 12,
+      "title": "Learning Goals",
+      "content": "Complete Kotlin course, read about Android architecture, practice algorithms",
+      "category": "Education",
+      "backgroundColor": "#F8BBD0"
+    },
+    {
+      "id": 13,
+      "title": "Party Planning",
+      "content": "Guest list, menu, decorations, music playlist",
+      "category": "Personal",
+      "backgroundColor": "#DCEDC8"
+    },
+    {
+      "id": 14,
+      "title": "Daily Journal",
+      "content": "Reflect on the day's events and feelings",
+      "category": "Personal",
+      "backgroundColor": "#FFECB3"
+    },
+    {
+      "id": 15,
+      "title": "Conference Schedule",
+      "content": "Keynote at 9 AM, breakout session at 11 AM, networking lunch at 1 PM",
+      "category": "Work",
+      "backgroundColor": "#BBDEFB"
+    },
+    {
+      "id": 16,
+      "title": "Gardening Tips",
+      "content": "Water plants in the morning, use organic fertilizer, prune regularly",
+      "category": "Hobbies",
+      "backgroundColor": "#C5E1A5"
+    },
+    {
+      "id": 17,
+      "title": "Event Planning",
+      "content": "Choose venue, send invitations, arrange catering",
+      "category": "Work",
+      "backgroundColor": "#FFAB91"
+    },
+    {
+      "id": 18,
+      "title": "Homework",
+      "content": "Math: Solve problems 1-10, English: Write an essay on 'My Favorite Book'",
+      "category": "Education",
+      "backgroundColor": "#E6EE9C"
+    },
+    {
+      "id": 19,
+      "title": "Music Playlist",
+      "content": "Add new songs to the workout playlist",
+      "category": "Entertainment",
+      "backgroundColor": "#FFCCBC"
+    },
+    {
+      "id": 20,
+      "title": "Health Tips",
+      "content": "Drink 8 glasses of water a day, eat more vegetables, exercise regularly",
+      "category": "Fitness",
+      "backgroundColor": "#D7CCC8"
+    }
+  ]
+}
