@@ -14,7 +14,7 @@
         "director": "Christopher Nolan",
         "overview": "Directed by Christopher Nolan, The Dark Knight is a superhero film that explores the darker side of Gotham City. The film follows the legendary vigilante Batman as he faces his greatest challenge yet: the chaotic and unpredictable Joker. With Gotham plunged into chaos and despair, Batman must confront his own inner demons while battling a formidable adversary who seeks to bring about anarchy. Featuring an iconic performance by Heath Ledger as the Joker, The Dark Knight is a thrilling and thought-provoking exploration of morality, justice, and the nature of heroism.",
         "length": 152,
-        "rating": 9.0,
+        "rating": 9.2,
         "release_date": "2008-07-18"
       },
       {
@@ -76,6 +76,8 @@
         "title": "The Matrix",
         "director": "Lana Wachowski + Lilly Wachowski",
         "release_date": "1999-03-31",
+        "length": 195,
+        "rating": 8.9,
         "overview": "The Matrix, directed by Lana and Lilly Wachowski, is a groundbreaking science fiction film that explores the nature of reality and the power of the human mind. Set in a dystopian future where humanity is enslaved by intelligent machines, the film follows the journey of computer hacker Neo as he discovers the truth about the Matrix, a simulated reality that has imprisoned mankind. With mind-bending special effects, exhilarating action sequences, and philosophical themes, The Matrix challenges viewers to question their perception of reality and embrace the power of self-discovery."
     },
     {
@@ -120,7 +122,7 @@
       "director": "Francis Ford Coppola",
       "overview": "The Godfather: Part II, directed by Francis Ford Coppola, is a cinematic masterpiece that continues the saga of the Corleone crime family. Set in both the past and the present, the film explores the rise of Vito Corleone as a young immigrant in New York City and the reign of his son Michael as the new Don of the family empire. As Michael grapples with the complexities of power and family loyalty, he must confront his own demons and make difficult choices to ensure the survival of his dynasty. With its intricate storytelling, complex characters, and moral ambiguity, The Godfather: Part II is a timeless classic that stands as one of the greatest films ever made.",
       "length": 202,
-      "rating": 9.0,
+      "rating": 9.2,
       "release_date": "1974-12-20"
     },
     {
